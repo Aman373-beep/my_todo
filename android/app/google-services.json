@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1047194107990",
+    "firebase_url": "https://my-todo-bbe5d-default-rtdb.firebaseio.com",
+    "project_id": "my-todo-bbe5d",
+    "storage_bucket": "my-todo-bbe5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047194107990:android:2cf41cdc4db20dec597bf7",
+        "android_client_info": {
+          "package_name": "com.example.my_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjduQs19_mK6LQkfPrZ7wcObFFFykqvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047194107990:android:83f578ae14906237597bf7",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjduQs19_mK6LQkfPrZ7wcObFFFykqvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
