@@ -10,6 +10,7 @@ import 'package:my_todo/Provider/Todo.dart';
 import 'Components/firebase_options.dart';
 
 void main() async {
+  //Flutter firebase widget binding initialized
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       // options: DefaultFirebaseOptions.currentPlatform,
